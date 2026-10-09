@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix",
+  "description": "Citizen road damage reporting with AI pipeline analysis and real-time municipal admin dispatch dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
